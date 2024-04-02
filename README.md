@@ -15,7 +15,7 @@
 
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=tamccullough88&theme=onedark&title=Repo,Commits,Stars,MultipleLang")](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tamccullough88&hidden=false&theme=onedark&title=Repo,Commits,Stars,MultipleLang")](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
