@@ -1,5 +1,6 @@
 # 👋 Hey!
 
+## About Me
 - 👨‍🎓 I recently graduated from a Software Development boot camp, but that does not mean I am done learning!
 - 🌱 I’m currently growing my knowledge in Python backend frameworks, Javascript/React frontend, Theme.liquid, and soon C++
 - 🍖 I want to make a simple can controller for my smoker to help maintain the heat with an Arduino, any suggestions?
