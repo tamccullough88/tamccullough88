@@ -11,7 +11,7 @@
 ## Languages & Tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" height="30px" alt="javascript logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30px" height="30px" alt="react logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="30px" height="30px">  <img src="https://github.com/tamccullough88/tamccullough88/assets/141081845/30bcd88e-30e1-400a-9bac-9de5e77ce23f" width="30px" height="30px" alt="express.js logo"> <img src="https://github.com/BrianHHough/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30px" height="30px" alt="mongobd logo"> <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="30px" height="30px" alt="postgresql logo">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamccullough88&hide_progress=true&theme=dark&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamccullough88&hide_progress=true&layout=donut&theme=dark)
 
 
 ## Trophies
