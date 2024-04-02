@@ -13,7 +13,7 @@
 
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=tamccullough88&theme=onedark&rank=C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tamccullough88&theme=onedark&rank=-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 tamccullough88/tamccullough88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
