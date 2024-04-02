@@ -7,6 +7,9 @@
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/thomas-andrew-mccullough/ | Email - TAMcCullough88@gmail.com
 - ⚡ Fun fact: 🎸I have been a musician most of my life. I took piano lessons at a young age, taught myself bass and guitar, and have been in multiple bands.
 
+
+## Languages
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 <!---
 tamccullough88/tamccullough88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
