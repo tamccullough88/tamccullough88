@@ -13,7 +13,7 @@
 
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=tamccullough88&theme=onedark&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tamccullough88&theme=onedark&title=MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
