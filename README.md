@@ -6,6 +6,7 @@
 - 🍖 I want to make a simple can controller for my smoker to help maintain the heat with an Arduino, any suggestions?
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/thomas-andrew-mccullough/ | Email - TAMcCullough88@gmail.com
 - ⚡ Fun fact: 🎸I have been a musician most of my life. I took piano lessons at a young age, taught myself bass and guitar, and have been in multiple bands.
+- 😪 Boring fact: I don't like mushrooms.
 
 
 ## Languages & Tools
